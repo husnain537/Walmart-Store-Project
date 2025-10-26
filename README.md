@@ -3,10 +3,10 @@ A comprehensive data driven approach to enhance the sales of stores and calculat
 
 Project Overview:
 
-Business Context:Walmart struggles to predict sales due to regional variations, holidays, and large-scale operations.
+Business Context: Walmart struggles to predict sales due to regional variations, holidays, and large-scale operations.
 
-Business Problem:Analyze how holidays affect weekly sales and why some stores outperform others.
+Business Problem: Analyze how holidays affect weekly sales and why some stores outperform others.
 
-Approach:Used Excel, Pivot Tables, Lookups,hypothesis testing, and statistical analysis to identify top stores and evaluate holiday impact.
+Approach:        Used Excel, Pivot Tables, Lookups,hypothesis testing, and statistical analysis to identify top stores and evaluate holiday impact.
 
 
